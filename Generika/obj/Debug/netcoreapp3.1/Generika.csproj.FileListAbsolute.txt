@@ -1,0 +1,13 @@
+C:\Users\alex\source\repos\Generika\Generika\bin\Debug\netcoreapp3.1\Generika.exe
+C:\Users\alex\source\repos\Generika\Generika\bin\Debug\netcoreapp3.1\Generika.deps.json
+C:\Users\alex\source\repos\Generika\Generika\bin\Debug\netcoreapp3.1\Generika.runtimeconfig.json
+C:\Users\alex\source\repos\Generika\Generika\bin\Debug\netcoreapp3.1\Generika.runtimeconfig.dev.json
+C:\Users\alex\source\repos\Generika\Generika\bin\Debug\netcoreapp3.1\Generika.dll
+C:\Users\alex\source\repos\Generika\Generika\bin\Debug\netcoreapp3.1\Generika.pdb
+C:\Users\alex\source\repos\Generika\Generika\obj\Debug\netcoreapp3.1\Generika.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Generika\Generika\obj\Debug\netcoreapp3.1\Generika.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\Generika\Generika\obj\Debug\netcoreapp3.1\Generika.AssemblyInfo.cs
+C:\Users\alex\source\repos\Generika\Generika\obj\Debug\netcoreapp3.1\Generika.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Generika\Generika\obj\Debug\netcoreapp3.1\Generika.dll
+C:\Users\alex\source\repos\Generika\Generika\obj\Debug\netcoreapp3.1\Generika.pdb
+C:\Users\alex\source\repos\Generika\Generika\obj\Debug\netcoreapp3.1\Generika.genruntimeconfig.cache

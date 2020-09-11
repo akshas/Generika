@@ -1,0 +1,13 @@
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\bin\Debug\netcoreapp3.1\GenerikaAufgaben.exe
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\bin\Debug\netcoreapp3.1\GenerikaAufgaben.deps.json
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\bin\Debug\netcoreapp3.1\GenerikaAufgaben.runtimeconfig.json
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\bin\Debug\netcoreapp3.1\GenerikaAufgaben.runtimeconfig.dev.json
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\bin\Debug\netcoreapp3.1\GenerikaAufgaben.dll
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\bin\Debug\netcoreapp3.1\GenerikaAufgaben.pdb
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\obj\Debug\netcoreapp3.1\GenerikaAufgaben.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\obj\Debug\netcoreapp3.1\GenerikaAufgaben.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\obj\Debug\netcoreapp3.1\GenerikaAufgaben.AssemblyInfo.cs
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\obj\Debug\netcoreapp3.1\GenerikaAufgaben.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\obj\Debug\netcoreapp3.1\GenerikaAufgaben.dll
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\obj\Debug\netcoreapp3.1\GenerikaAufgaben.pdb
+C:\Users\alex\source\repos\Generika\GenerikaAufgaben\obj\Debug\netcoreapp3.1\GenerikaAufgaben.genruntimeconfig.cache
